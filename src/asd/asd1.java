@@ -9,7 +9,7 @@ class asd1 {
 	}
 	public static void welcom()
 	{
-		System.out.println("hiiiiiiii");
+		System.out.println("hiiiiiiiiyou");
 	}
 
 }
